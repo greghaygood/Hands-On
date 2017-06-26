@@ -20,6 +20,6 @@ export default class PageTitle extends Component {
 }
 
 
-Pagetitle.propTypes = {
+PageTitle.propTypes = {
   title: PropTypes.string.isRequired,
 };
