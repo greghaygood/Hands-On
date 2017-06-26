@@ -3,3 +3,13 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.button {
+  width: 150px;
+  height: 65px;
+  background-color: #3982dc;
+  border-radius: 10px;
+  color: #ffffff;
+  border: none;
+  font-size: 18px;
+}
